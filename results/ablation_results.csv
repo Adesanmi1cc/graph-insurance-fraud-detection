@@ -1,0 +1,6 @@
+model,feature_set,n_features,auc_pr,auc_roc,f1,recall,precision
+M1_tabular,17 tabular,17,0.6561,0.9292,0.5904,0.6447,0.5444
+M2_tab_local,tabular + local,20,0.6577,0.9307,0.6196,0.6645,0.5805
+M3_tab_community,tabular + community,19,0.6713,0.9322,0.6282,0.6447,0.6125
+M4_tab_global,tabular + global,19,0.6522,0.9288,0.6280,0.6776,0.5852
+M5_all,tabular + all graph,24,0.6702,0.9297,0.6295,0.6316,0.6275

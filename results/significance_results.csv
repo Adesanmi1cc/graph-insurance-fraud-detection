@@ -1,0 +1,17 @@
+comparison,metric,diff,ci_low,ci_high,significant
+M2_tab_local vs M1,auc_pr,0.0013,-0.0204,0.0236,no
+M2_tab_local vs M1,f1,0.0283,-0.0001,0.0581,no
+M2_tab_local vs M1,recall,0.0183,-0.0195,0.0572,no
+M2_tab_local vs M1,precision,0.0354,0.0061,0.0690,yes
+M3_tab_community vs M1,auc_pr,0.0148,-0.0159,0.0488,no
+M3_tab_community vs M1,f1,0.0379,0.0050,0.0720,yes
+M3_tab_community vs M1,recall,-0.0003,-0.0417,0.0397,no
+M3_tab_community vs M1,precision,0.0683,0.0310,0.1080,yes
+M4_tab_global vs M1,auc_pr,-0.0021,-0.0259,0.0216,no
+M4_tab_global vs M1,f1,0.0372,0.0079,0.0669,yes
+M4_tab_global vs M1,recall,0.0319,-0.0063,0.0710,no
+M4_tab_global vs M1,precision,0.0406,0.0084,0.0742,yes
+M5_all vs M1,auc_pr,0.0138,-0.0206,0.0479,no
+M5_all vs M1,f1,0.0382,0.0005,0.0764,yes
+M5_all vs M1,recall,-0.0144,-0.0599,0.0305,no
+M5_all vs M1,precision,0.0823,0.0417,0.1291,yes

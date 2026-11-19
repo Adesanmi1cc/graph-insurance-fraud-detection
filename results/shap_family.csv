@@ -1,0 +1,5 @@
+family,total_shap,mean_shap_per_feature,n_features
+tabular,5.15056,0.30297,17
+community,1.28798,0.64399,2
+global,0.73405,0.36702,2
+local,0.44360,0.14787,3

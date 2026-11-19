@@ -1,0 +1,16 @@
+rank,feature,family,mean_abs_shap
+1,TotalReimbursed,tabular,1.180154
+2,community_fraud_rate,community,0.731323
+3,global_betweenness,global,0.636187
+4,community_size,community,0.556652
+5,NumClaims,tabular,0.544958
+6,MedianReimbursed,tabular,0.517749
+7,MeanDeductible,tabular,0.492458
+8,PctDeceased,tabular,0.485168
+9,NumUniqueOthPhys,tabular,0.267967
+10,NumUniqueOpPhys,tabular,0.234165
+11,MeanReimbursed,tabular,0.205761
+12,MaxReimbursed,tabular,0.200108
+13,local_clustering,local,0.197704
+14,NumUniqueAttPhys,tabular,0.196484
+15,MeanAge,tabular,0.185016

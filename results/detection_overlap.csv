@@ -1,0 +1,5 @@
+group,n_providers,pct_of_test_fraud
+caught_by_both,90,59.2
+graph_only_M5,6,3.9
+tabular_only_M1,8,5.3
+missed_by_both,48,31.6
